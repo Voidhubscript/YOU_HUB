@@ -10,7 +10,7 @@ Esp.Enabled = false
 Esp.Tracers = false
 Esp.Boxes = false
 
-local Window = Library:CreateWindow(" 🙂🌟YOUHUB", Vector2.new(500, 300), Enum.KeyCode.RightShift)
+local Window = Library:CreateWindow("🙂🌟YOU_HUB", Vector2.new(500, 300), Enum.KeyCode.RightShift)
 local Evade = Window:CreateTab("General")
 local AutoFarms = Window:CreateTab("Farms")
 local Gamee = Window:CreateTab("Game")
